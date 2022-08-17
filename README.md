@@ -3,6 +3,8 @@
 ### Query Interpretations from Entity-Linked Segmentations
 [Code](https://github.com/webis-de/wsdm22-query-interpretations-from-entity-linked-segmentations) and [Data](https://doi.org/10.5281/zenodo.5820673).
 
+
+
 ### Towards Understanding and Answering Comparative Questions
 Bondarenko, Ajjour, Dittmar, Homann, Braslavski, Hagen
 
