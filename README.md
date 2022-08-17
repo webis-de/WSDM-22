@@ -6,7 +6,9 @@
 ### Towards Understanding and Answering Comparative Questions
 Bondarenko, Ajjour, Dittmar, Homann, Braslavski, Hagen
 
-'''@InProceedings{bondarenko:2022a,
+
+```
+@InProceedings{bondarenko:2022a,
   author =                {Alexander Bondarenko and Yamen Ajjour and Valentin Dittmar and Niklas Homann and Pavel Braslavski and Matthias Hagen},
   booktitle =             {15th ACM International Conference on Web Search and Data Mining (WSDM 2022)},
   doi =                   {10.1145/3488560.3498534},
@@ -18,6 +20,7 @@ Bondarenko, Ajjour, Dittmar, Homann, Braslavski, Hagen
   title =                 {{Towards Understanding and Answering Comparative Questions}},
   url =                   {https://dl.acm.org/doi/10.1145/3488560.3498534},
   year =                  2022
-}'''
+}
+```
 
 [Code and Data](https://github.com/webis-de/wsdm22-towards-understanding-and-answering-comparative-questions).
