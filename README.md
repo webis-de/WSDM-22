@@ -23,4 +23,4 @@ Bondarenko, Ajjour, Dittmar, Homann, Braslavski, Hagen
 }
 ```
 
-[[Paper]([https://github.com/webis-de/wsdm22-towards-understanding-and-answering-comparative-questions](https://webis.de/publications.html#bondarenko_2022a))] [[Code and Data](https://github.com/webis-de/wsdm22-towards-understanding-and-answering-comparative-questions)]
+[[Paper](https://webis.de/publications.html#bondarenko_2022a)] [[Code and Data](https://github.com/webis-de/wsdm22-towards-understanding-and-answering-comparative-questions)]
